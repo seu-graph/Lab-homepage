@@ -1,0 +1,2 @@
+- Lab homepage: [SEUGraph](https://cse.seu.edu.cn/2019/0105/c23024a257562/page.htm)
+- Lab weibo: [SEUGraph-姚莉](https://weibo.com/seugraph?is_all=1)
